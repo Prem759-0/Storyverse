@@ -1,40 +1,12 @@
-<!-- StoryVerse README -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=4000&pause=1000&color=F0E6D3&center=true&vCenter=true&width=600&lines=StoryVerse;Cinematic+Interactive+Stories;Where+every+choice+matters" alt="StoryVerse Typing SVG" />
-  <br/>
-  
-  <style>
-    .dev-badge {
-      background: linear-gradient(135deg, #ffb347, #ff7b00, #ffb347);
-      background-size: 200% 200%;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      animation: gradientShift 3s ease infinite;
-      font-family: 'Poppins', sans-serif;
-      font-size: 2rem;
-      font-weight: 700;
-      margin: 20px 0;
-    }
-    @keyframes gradientShift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    .pulse {
-      animation: pulse 2s infinite;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 1; }
-      50% { transform: scale(1.05); opacity: 0.8; }
-      100% { transform: scale(1); opacity: 1; }
-    }
-  </style>
-
-  <div class="dev-badge">🚧 App is under development 🚧</div>
-  <p class="pulse" style="color: #b8b0a0; font-family: 'Poppins', sans-serif;">
-    We’re crafting an immersive storytelling universe. Stay tuned for the first release!
-  </p>
+  <a href="https://github.com/your-username/storyverse">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=800&color=F0E6D3&center=true&vCenter=true&width=600&lines=🚧+App+is+under+development+🚧;Cinematic+Interactive+Stories;StoryVerse" alt="Typing SVG" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge&logo=github" alt="Status Badge" />
+</p>
 
 ---
 
@@ -52,7 +24,7 @@
 - **Fully Responsive** and mobile‑first design
 
 ## 🎥 Demo
-🟡 **Live Preview** (coming soon) – _We’ll deploy on Vercel once the core stories are polished._
+🟡 **Live Preview** — *coming soon after the core stories are polished.*
 
 ## 🛠️ Tech Stack
 
